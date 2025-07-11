@@ -1,0 +1,28 @@
+{
+  "cat": [
+    "SEX",
+    "CLD",
+    "SMK",
+    "COPD",
+    "CKD",
+    "cohort_0.0",
+    "cohort_1.0",
+    "cohort_2.0"
+  ],
+  "con": [
+    "AGE",
+    "BHT",
+    "BWT",
+    "BBILI",
+    "BSCR",
+    "BBSA",
+    "BALB",
+    "BALT",
+    "BAST",
+    "BCRCL",
+    "BEGFR"
+  ],
+  "eta": [
+    "ETA2"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "cat": [
+    "SEX",
+    "CLD",
+    "SMK",
+    "COPD",
+    "CKD"
+  ],
+  "con": [
+    "AGE",
+    "BHT",
+    "BWT",
+    "BBILI",
+    "BSCR",
+    "BBSA",
+    "BALB",
+    "BALT",
+    "BAST",
+    "BCRCL",
+    "BEGFR"
+  ],
+  "eta": [
+    "ETA2"
+  ]
+}
