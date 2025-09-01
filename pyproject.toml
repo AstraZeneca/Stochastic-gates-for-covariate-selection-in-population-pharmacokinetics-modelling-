@@ -28,7 +28,7 @@ dependencies = [
     "scipy==1.11.1",
     "seaborn==0.12.2",
     "shap==0.45.0",
-    "torch==2.0.1",
+    "torch==2.8.0",
     "torchaudio==2.0.2",
     "torchdiffeq==0.2.3",
     "torchvision==0.15.2",
